@@ -2,7 +2,7 @@
 
 The ATM90E32AS-EnergyModule can monitor the energy usage in your entire home in real time. It can easily be hooked up to an ESP8266 or ESP32 to wirelessly transmit energy usage data into a program like EmonCMS or ESPHome/Home Assistant. It can also be used to monitor solar power generation to keep track of how much power you are making.
 
-![ATM90E32AS-EnergyModule](Images/Board Top 1.jpg)
+![ATM90E32AS-EnergyModule](Board Top 1.jpg)
 
 #### With the ATM90E32AS-EnergyModule you can:
 
@@ -70,11 +70,11 @@ The ATM90E32AS-EnergyModule can monitor the energy usage in your entire home in 
    * **13mm and less**, the [SCT-013-000 100A/50mA](https://www.amazon.com/SCT-013-000-Retractable-Current-Transformer-SCT013000/dp/B085KWXYPV/ref=sr_1_9?crid=2M8SKL3X58TF6&keywords=SCT-013-000&qid=1693307831&sprefix=sct-013-000%2Caps%2C309&sr=8-9&th=1) has a 13mm opening for wire.
    * **13.5mm - 16mm - 4/0 AWG** (usually aluminum, 200A service) not thicker than 16mm with insulation, we recommend the [YHDC SCT-016 120A/40mA](https://www.amazon.com/YHDC-current-transformer-SCT016-1/dp/B01CVBHSGO). 
    
-   ![SCT016](/Images/current_transformer_SCT016.jpg)
+   ![SCT016](current_transformer_SCT016.jpg)
    
    * **Greater than 16mm**, the [Magnelab SCT-0750-100](https://amzn.to/2IF8xnY) (must sever burden resistor connection on the back of the board since they have a built in burden resistor). These have wire leads and will need an adapter or screw connectors soldered to the energy meter board.
    
-   ![JP1-JP2](/images/energy_meter_JP1-JP2-JP3.jpg)
+   ![JP1-JP2](energy_meter_JP1-JP2-JP3.jpg)
    
    * Other CTs can also be used as long as they're rated for the amount of power that you are wanting to measure and have a current output no more than 720mA. For safety, they MUST have a built in Zener diode or burden resistor. 
 * AC Transformer: [MYRRA_44085 230V/9v](https://au.element14.com/myrra/44085/transformer-6v-1-5va/dp/1689047)
