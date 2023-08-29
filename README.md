@@ -77,7 +77,7 @@ The ATM90E32AS-EnergyModule can monitor the energy usage in your entire home in 
    ![JP1-JP2](energy_meter_JP1-JP2-JP3.jpg)
    
    * Other CTs can also be used as long as they're rated for the amount of power that you are wanting to measure and have a current output no more than 720mA. For safety, they MUST have a built in Zener diode or burden resistor. 
-* AC Transformer: [MYRRA_44085 230V/9v](https://au.element14.com/myrra/44085/transformer-6v-1-5va/dp/1689047)
+* AC Transformer: [MYRRA_44086 230V/9v](https://au.element14.com/myrra/44086/transformer-1-5va-9v/dp/1689048)
 * An [ESP32](https://amzn.to/2pCtTtz), ESP8266, LoRa, or anything else that has an SPI interface.
 * Jumper wires with Dupont connectors, or perf board to connect the two boards. The energy meter kit comes with a PCB adapter for an ESP32.
 * The software located here to load onto your controller
