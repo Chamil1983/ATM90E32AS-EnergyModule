@@ -2,7 +2,7 @@
 
 The ATM90E32AS-EnergyModule can monitor the energy usage in your entire home in real time. It can easily be hooked up to an ESP8266 or ESP32 to wirelessly transmit energy usage data into a program like EmonCMS or ESPHome/Home Assistant. It can also be used to monitor solar power generation to keep track of how much power you are making.
 
-   ![ATM90E32AS-EnergyModule](Board_Top_1.jpg)
+   ![ATM90E32AS-EnergyModule](IMG_4228.jpg)
 
 #### With the ATM90E32AS-EnergyModule you can:
 
